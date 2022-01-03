@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Francis
 #### I am a software engineer student
-I am Francis from Hong Kong. Currently located in Austin, TX.
+from Hong Kong. Currently located in Austin, TX.
 
 
 Skills: JS / HTML / CSS
