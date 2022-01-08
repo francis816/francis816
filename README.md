@@ -13,4 +13,3 @@ Skills: JS / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis816&show_icons=true&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/francis816)  
