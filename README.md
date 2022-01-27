@@ -3,10 +3,10 @@
 from Hong Kong. Currently located in Austin, TX.
 
 
-Skills: JS / HTML / CSS / React.js
+Skills: JS / HTML / CSS / React / Node / Express / MongoDB  
 
 - 🔭 I’m currently working on fullstackopen. 
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently learning testing and authentication.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/francis816)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cph816/)  
