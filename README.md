@@ -5,7 +5,7 @@ from Hong Kong. Currently located in Austin, TX.
 
 Skills: JavaScript / HTML / CSS / React / Node / Express / MongoDB  
 
-- 🔭 I’m currently working on fullstackopen. 
+- 🔭 I’m currently working on fullstackopen 
 - 🌱 I’m currently learning testing and authentication
 
 
