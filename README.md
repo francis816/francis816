@@ -1,5 +1,5 @@
 ![](https://github.com/francis816/francis816/blob/main/banner.png)
-#### I am a software engineer student
+#### I am a computer science student
 from Hong Kong. Currently located in Austin, TX.
 
 
